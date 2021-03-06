@@ -18,7 +18,7 @@ Hi, I'm Gangapuram Bhargav, a passionate self-taught frontEnd web developer from
 - 
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/gangapurambhargav/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/Stats/issues)
 
 **Languages and Tools:**  
 
@@ -43,7 +43,7 @@ Hi, I'm Gangapuram Bhargav, a passionate self-taught frontEnd web developer from
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangapurambhargav&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
