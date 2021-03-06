@@ -4,7 +4,7 @@
 <a href="https://twitter.com/gbhargav921">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="mailto:someone@yoursite.com">Email Me</a>
+<a href="mailto:gangapurambhargav1@gmail.com">Email Me</a>
 
 <br />
 <br />
