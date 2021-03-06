@@ -1,4 +1,4 @@
-### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
+### Hi there, I'm [Bhargav!!](https://gangapurambhargav.github.io) 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Gangapuram Bhargav | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
@@ -39,7 +39,7 @@ Hi, I'm Gangapuram Bhargav, a passionate self-taught frontEnd web developer from
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gangapurambhargav&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
