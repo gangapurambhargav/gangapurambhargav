@@ -1,22 +1,17 @@
 ### Hi there, I'm [Bhargav!!](https://gangapurambhargav.github.io) 👋
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Gangapuram Bhargav | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+
 <a href="https://twitter.com/gbhargav921">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+
 
 <br />
 <br />
 
 Hi, I'm Gangapuram Bhargav, a passionate self-taught frontEnd web developer from India.
 
-- 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/gangapurambhargav/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/gangapurambhargav/Stats/issues)
 
