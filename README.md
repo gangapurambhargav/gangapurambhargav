@@ -4,7 +4,7 @@
 <a href="https://twitter.com/gbhargav921">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
+<a href="mailto:someone@yoursite.com">Email Me</a>
 
 <br />
 <br />
@@ -33,7 +33,7 @@ Hi, I'm Gangapuram Bhargav, a passionate self-taught frontEnd web developer from
 
 
 <a href="https://github.com/anuraghazra1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gangapurambhargav&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gangapurambhargav&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Gangapuram bhargav's github stats" />
 </a>
 <a href="https://github.com/anuraghazra1/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
