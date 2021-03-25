@@ -6,7 +6,7 @@
 </a>
 <a href="mailto:gangapurambhargav1@gmail.com">Email Me</a>
 
-<br />
+<br />![](https://komarev.com/ghpvc/?username=gangapurambhargav)
 <br />
 
 Hi, I'm Gangapuram Bhargav, a passionate self-taught frontEnd web developer from India.
