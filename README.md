@@ -29,7 +29,6 @@ Hi, I'm Gangapuram Bhargav, a passionate self-taught frontEnd web developer from
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
- New feature of [github-readme-stats](https://github.com/anuraghazra1/github-readme-stats)*
 
 
 <a href="https://github.com/anuraghazra1/github-readme-stats">
