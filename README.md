@@ -11,7 +11,7 @@
 
 Hi, I'm Gangapuram Bhargav, a passionate self-taught frontEnd web developer from India.
 
-- 🌱 I’m currently learning Python and php
+- 🌱 I’m currently learning ML and Big Data using AWS.
 - 💬 Ask me about anything [here](https://github.com/gangapurambhargav/Stats/issues)
 
 **Languages and Tools:**  
