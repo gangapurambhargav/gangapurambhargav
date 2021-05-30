@@ -29,12 +29,3 @@ Hi, I'm Gangapuram Bhargav, a passionate self-taught frontEnd web developer from
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-
-
-<a href="https://github.com/anuraghazra1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gangapurambhargav&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Gangapuram bhargav's github stats" />
-</a>
-<a href="https://github.com/anuraghazra1/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangapurambhargav&layout=compact&theme=material-palenight" />
-</a>
