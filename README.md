@@ -9,7 +9,7 @@
 <br />![](https://komarev.com/ghpvc/?username=gangapurambhargav)
 <br />
 
-Hi, I'm Gangapuram Bhargav, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Gangapuram Bhargav, a passionate frontEnd web developer from India.
 
 - 💬 Ask me about anything [here](https://github.com/gangapurambhargav/Stats/issues)
 
