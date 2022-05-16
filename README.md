@@ -1,9 +1,9 @@
-### Hi there, I'm [Bhargav!!](https://gangapurambhargav.github.io) 👋
+### Hi there, I'm [Bhargav!!](https://bhargavgb.social) 👋
 
 
 
-<a href="mailto:gangapurambhargav1@gmail.com">Email Me</a><br> <br>
-<a href="bhargavgb.social/contact">Conatct </a>
+<a href="mailto:gangapurambhargav1@gmail.com">Email Me</a><br><br>
+<a href="bhargavgb.social/contact">Contact Me </a>
 
 <br />![](https://komarev.com/ghpvc/?username=gangapurambhargav)
 <br />
